@@ -1,3 +1,4 @@
 pyecharts
 xlrd
 openpyxl
+scipy
